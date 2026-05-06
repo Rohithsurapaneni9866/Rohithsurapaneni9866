@@ -1,33 +1,106 @@
-<h1 align="center">Hi 👋, I'm S ROHITH KUMAR</h1>
-<h3 align="center">A passionate full stack python developer from India</h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohithsurapaneni9866&label=Profile%20views&color=0e75b6&style=flat" alt="rohithsurapaneni9866" /> </p>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif"&gt;
+<h1 align="center">Hi 👋, I'm S Rohith Kumar</h1>
+<h3 align="center">Passionate Full Stack Python Developer from India 🇮🇳</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohithsurapaneni9866" alt="rohithsurapaneni9866" /></a> </p>
-
-- 🔭 I’m currently working on **TO DO PROJECT**
-
-- 🌱 I’m currently learning **FULL STACK PYTHON, UI**
-
-- 👯 I’m looking to collaborate on **ANY PYTHON PROJECT**
-
-- 👨‍💻 All of my projects are available at [github.io/Rohithsurapaneni9866](github.io/Rohithsurapaneni9866)
-
-- 💬 Ask me about **PYTHON , UI**
-
-- 📫 How to reach me **Rohithsurapaneni9866@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rohithsurapaneni9866&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/69011963/137184767-79a13ec7-1bb3-4341-a6da-3a149c9c159a.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rohithsurapaneni9866&show_icons=true&locale=en&layout=compact" alt="rohithsurapaneni9866" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohithsurapaneni9866&show_icons=true&locale=en" alt="rohithsurapaneni9866" /></p>
+- 🔭 Currently working on **To-Do Web Application**
+- 🌱 Learning **Full Stack Python & UI Development**
+- 👯 Looking to collaborate on **Python Projects**
+- 💬 Ask me about **Python, Django, HTML, CSS, UI**
+- 📫 Reach me at: **rohithsurapaneni9866@gmail.com**
+- ⚡ Fun fact: **I love solving problems and building projects**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohithsurapaneni9866&" alt="rohithsurapaneni9866" /></p>
+---
+
+## 🌐 Portfolio & Links
+
+- 💻 GitHub: [github.com/rohithsurapaneni9866](https://github.com/rohithsurapaneni9866)
+- 🌍 Portfolio: [Your Portfolio Link Here]
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rohithsurapaneni9866&theme=algolia&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/your-linkedin" target="blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/your-instagram" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+</p>
+
+---
+
+## 🛠️ Languages and Tools
+
+<p align="left">
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.djangoproject.com/" target="_blank">
+<img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3.org/html/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.w3schools.com/css/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://getbootstrap.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
+</a>
+
+<a href="https://pandas.pydata.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
+</a>
+
+<a href="https://www.gnu.org/software/bash/" target="_blank">
+<img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" width="40" height="40"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=rohithsurapaneni9866&show_icons=true&theme=tokyonight" alt="stats" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohithsurapaneni9866&layout=compact&theme=tokyonight" alt="languages" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rohithsurapaneni9866&theme=tokyonight" alt="streak" />
+</p>
