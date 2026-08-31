@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-- 🔭 Currently working on **To-Do Web Application**
+- 🔭 Currently working on **BoraBeri website**
 - 🌱 Learning **Full Stack Python & UI Development**
 - 👯 Looking to collaborate on **Python Projects**
 - 💬 Ask me about **Python, Django, HTML, CSS, UI**
