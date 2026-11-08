@@ -21,7 +21,8 @@
 ## 🌐 Portfolio & Links
 
 - 💻 GitHub: [github.com/rohithsurapaneni9866](https://github.com/rohithsurapaneni9866)
-- 🌍 Portfolio: [Your Portfolio Link Here]
+- <img width="12" height="12" alt="image" src="https://github.com/user-attachments/assets/27ac3ffd-766c-407d-b55c-b0c274451abd" /> LinkedIn : https://www.linkedin.com/in/rohith-kumar-b363ba381/
+- 🌍 Portfolio: https://rohithportfolio03-2026.netlify.app/
 
 ---
 
